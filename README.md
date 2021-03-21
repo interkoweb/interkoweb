@@ -1,4 +1,4 @@
-👋 Hi, I’m @interkoweb
+👋 Hi, I’m Interko
 
 
 <!---
